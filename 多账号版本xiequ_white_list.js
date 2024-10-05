@@ -1,7 +1,7 @@
 /*
 new Env('携趣IP白名单多账号版');
 51 23 * * * 
-xiequ_white_list.js
+多账号版本xiequ_white_list.js
 by:Shuai
 携趣自动加白名单多账号版
 */
